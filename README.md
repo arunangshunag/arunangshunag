@@ -41,7 +41,9 @@
   <a href="https://www.linkedin.com/in/arunangshu-nag-2760a7271/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="46" alt="linkedin logo"  />
   </a>
+  <a href="https://www.instagram.com/itszanshu?igsh=eTdwZDh4bnJidDg1" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="46" alt="instagram logo"  />
+   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="71" height="46" alt="discord logo"  />
   <a href="arunangshunag36@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="46" alt="gmail logo"  />
