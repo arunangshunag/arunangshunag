@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 📚 I'm CSE pursuit from Siliguri Institute of Technlogy ...<br><br>-🔭 I’m interested in web development , machine learning</p>
+<p align="left">- 📚 I'm CSE pursuit from Siliguri Institute of Technlogy ...<br><br>-🔭 I’m interested in problem solving , machine learning</p>
 
 ###
 
